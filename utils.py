@@ -1,3 +1,4 @@
+# error fix: Taewon Kang (itschool@itsc.kr)
 import os
 from glob import glob
 from tensorpack import *
